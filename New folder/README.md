@@ -33,4 +33,12 @@ import numpy as np
 %matplotlib inline
 ```
 
-### 
+### Reading the data in
+
+```python 
+df = pd.read_csv("FuelConsumption.csv")
+
+# hãy xem tập dữ liệu 
+df.head()
+```
+
