@@ -5,7 +5,7 @@
 
 ## Data 
 
-[FuelConsumption.csv](Machine-Learning/New folder/FuelConsumption.csv)
+[FuelConsumption.csv](New folder/FuelConsumption.csv)
 
 Tập dữ liệu mức tiêu thụ nhiên liệu FuelConsumption.csv, trong đó có xếp hạng mức tiêu thụ nhiên liệu dành riêng cho từng kiểu xe và lượng khí thải CO2 ước tính cho các loại xe ở Canada.
 
