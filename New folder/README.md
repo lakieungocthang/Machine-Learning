@@ -20,7 +20,7 @@ Tập dữ liệu mức tiêu thụ nhiên liệu FuelConsumption.csv, trong đ�
 - FUEL CONSUMPTION in CITY(L/100 km) e.g. 9.9
 - FUEL CONSUMPTION in HWY (L/100 km) e.g. 8.9
 - FUEL CONSUMPTION COMB (L/100 km) e.g. 9.2
-- FUELCONSUMPTION_COMB_MPG e.g. 18
+- FUELCONSUMPTION_COMB_MPG (L/100 km) e.g. 18
 - CO2 EMISSIONS (g/km) e.g. 182 --> low --> 0 
 
 ## Importing Needed packages
