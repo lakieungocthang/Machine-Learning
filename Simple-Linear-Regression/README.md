@@ -42,3 +42,31 @@ df = pd.read_csv("FuelConsumption.csv")
 df.head()
 ```
 
+### Data Exploration
+
+Trước tiên, ta cần thăm dò dữ liệu 
+
+```python
+# summarize the data
+df.describe()
+```
+
+Chọn một số mục để thăm dò thêm
+
+```python
+cdf = df[['ENGINESIZE', 'CYLINDERS', 'FUELCONSUMPTION_COMB', 'CO2EMISSIONS']]
+cdf.head(9)
+```
+
+Ta có thể vẽ trực quan cho từng mục
+
+```python
+viz = cdf[['CYLINDERS', 'ENGINESIZE', 'CO2EMISSIONS', 'FUELCONSUMPTION_COMB']]
+viz.hist()
+viz.show()
+```
+
+
+
+
+
