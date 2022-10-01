@@ -44,7 +44,7 @@ df.head()
 
 ### Data Exploration
 
-Trước tiên, ta cần thăm dò dữ liệu 
+Trước tiên, ta cần thăm dò về mô tả dữ liệu 
 
 ```python
 # summarize the data
